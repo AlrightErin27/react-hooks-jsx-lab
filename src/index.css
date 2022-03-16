@@ -42,7 +42,9 @@ nav a:active {
   color: tomato;
   border-bottom: 2px solid tomato;
 }
-
+nav:hover {
+  background-color: rgba(255, 0, 0, 0.256);
+}
 #home,
 #about {
   display: flex;
